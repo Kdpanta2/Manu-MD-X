@@ -11,7 +11,6 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/@ManulOfficialTech">
     <img alt="MANU-MD" height="300" src="https://github.com/Kdpanta2/Manu-MD-X/blob/main/20241122_185935.png">
 
     
